@@ -1,4 +1,4 @@
-package org.eventsubscriber.model;
+package eventsubscriber.model;
 
 import java.io.Serializable;
 
